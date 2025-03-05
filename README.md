@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning neural network infrastructure and fundamental architectures.
 - ⚡ Fun fact: More time with machine than with folks in the past
 - 👯 I'm looking to meet nice people and make friends!
+
+[![jhzhics's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhzhics)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jhzhics/jhzhics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
