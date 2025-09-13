@@ -9,10 +9,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhzhics&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
-<StackIcon name="rust" />
-<StackIcon name="c++" />
-<StackIcon name="python" />
-<StackIcon name="go" />
+<p align="center">
+    <img src="assets/c-plusplus.svg" alt="C++" width="40" style="margin: 10px;"/>
+    <img src="assets/c.svg" alt="C" width="40" style="margin: 10px;"/>
+    <img src="assets/rust.svg" alt="Rust" width="40" style="margin: 10px;"/>
+    <img src="assets/python.svg" alt="Python" width="40" style="margin: 10px;"/>
+    <img src="assets/go.svg" alt="Go" width="40" style="margin: 10px;"/>
+    <img src="assets/html-5.svg" alt="HTML5" width="40" style="margin: 10px;"/>
+    <img src="assets/wolfram.svg" alt="Wolfram" width="40" style="margin: 10px;"/>
+    <img src="assets/md.svg" alt="Markdown" width="40" style="margin: 10px;"/>
+    <img src="assets/latex.png" alt="LaTeX" width="40" style="margin: 10px;"/>
+</p>
 
 <!--
 **jhzhics/jhzhics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
