@@ -4,8 +4,16 @@
 - ⚡ Fun fact: More time with machine than with folks in the past
 - 👯 I'm looking to meet nice people and make friends!
 
+## Statistics
 [![jhzhics's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhzhics)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhzhics&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tech Stack
+<StackIcon name="rust" />
+<StackIcon name="c++" />
+<StackIcon name="python" />
+<StackIcon name="go" />
+
 <!--
 **jhzhics/jhzhics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
