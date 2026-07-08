@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ## Statistics
-[![jhzhics's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhzhics)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhzhics&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![jhzhics's GitHub stats](https://github-stats-extended.vercel.app/api?username=jhzhics)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=jhzhics)](https://github.com/stats-organization/github-stats-extended)
 
-## Tech Stack
+## Tech Stack[![Anurag's GitHub stats]
 <p align="center">
     <img src="assets/c-plusplus.svg" alt="C++" width="40" style="margin: 10px;"/>
     <img src="assets/c.svg" alt="C" width="40" style="margin: 10px;"/>
