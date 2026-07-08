@@ -4,7 +4,7 @@
 [![jhzhics's GitHub stats](https://github-stats-extended.vercel.app/api?username=jhzhics)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=jhzhics)](https://github.com/stats-organization/github-stats-extended)
 
-## Tech Stack[![Anurag's GitHub stats]
+## Tech Stack
 <p align="center">
     <img src="assets/c-plusplus.svg" alt="C++" width="40" style="margin: 10px;"/>
     <img src="assets/c.svg" alt="C" width="40" style="margin: 10px;"/>
